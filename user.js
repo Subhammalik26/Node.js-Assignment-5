@@ -47,7 +47,7 @@ user.get('/users', showUser); // show the usernames stored in the database.
 // 404 page.
 user.get('*', error);
 
-// Spin Node.js server on port 3030.
+// Spin Node.js server on port 3060.
 user.listen(3060, () => {
   console.log('Server listening on port 3060!');
 });

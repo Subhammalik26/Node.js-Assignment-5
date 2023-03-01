@@ -15,3 +15,12 @@ Create three pages for route "/", "users", "create".
 
 # OUTPUT:-
 
+
+![home_page](https://user-images.githubusercontent.com/99710364/222151361-3340906e-381b-444f-bb76-5425fc2efc6e.png)
+
+
+![create_page](https://user-images.githubusercontent.com/99710364/222151529-c4b93f7b-aef0-474b-b4de-7cc31324f3fc.png)
+
+
+![show_user](https://user-images.githubusercontent.com/99710364/222151365-f03b4240-9624-47dd-be52-a42fd298e020.png)
+
